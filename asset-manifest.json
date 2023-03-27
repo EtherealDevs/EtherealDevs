@@ -1,16 +1,22 @@
 {
   "files": {
     "main.css": "/EtherealDevs/static/css/main.13a6b21b.css",
-    "main.js": "/EtherealDevs/static/js/main.d97375eb.js",
+    "main.js": "/EtherealDevs/static/js/main.5b126cb1.js",
     "static/js/787.6cd2588e.chunk.js": "/EtherealDevs/static/js/787.6cd2588e.chunk.js",
     "static/media/planet.png": "/EtherealDevs/static/media/planet.04a68888bb6780368160.png",
+    "static/media/1.png": "/EtherealDevs/static/media/1.fafba9ed830707a58140.png",
+    "static/media/joacco.jpeg": "/EtherealDevs/static/media/joacco.8f33feda6080b3c9d866.jpeg",
+    "static/media/kevin2.jpeg": "/EtherealDevs/static/media/kevin2.69840235534e0bdbf793.jpeg",
+    "static/media/rodri.jpeg": "/EtherealDevs/static/media/rodri.90e4f48b53ca7111c361.jpeg",
+    "static/media/eth.png": "/EtherealDevs/static/media/eth.018022c85dc5ff43d0c4.png",
+    "static/media/mateo.jpg": "/EtherealDevs/static/media/mateo.9ff515c71106f5b536b8.jpg",
     "index.html": "/EtherealDevs/index.html",
     "main.13a6b21b.css.map": "/EtherealDevs/static/css/main.13a6b21b.css.map",
-    "main.d97375eb.js.map": "/EtherealDevs/static/js/main.d97375eb.js.map",
+    "main.5b126cb1.js.map": "/EtherealDevs/static/js/main.5b126cb1.js.map",
     "787.6cd2588e.chunk.js.map": "/EtherealDevs/static/js/787.6cd2588e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13a6b21b.css",
-    "static/js/main.d97375eb.js"
+    "static/js/main.5b126cb1.js"
   ]
 }
