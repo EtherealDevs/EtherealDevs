@@ -1,4 +1,8 @@
 import React, { Component } from 'react';
+import mateo from '../img/mateo.jpg'
+import joaco from '../img/joacco.jpeg'
+import kevin from '../img/kevin2.jpeg'
+import rodri from '../img/rodri.jpeg'
 
 class About2 extends Component {
     render() {
@@ -11,7 +15,7 @@ class About2 extends Component {
                   href="/"
                 >
                   <div className='text-center'>
-                    <img className='relative rounded-full w-4/5' src="/mateo.jpg"/>
+                    <img className='relative rounded-full w-4/5' src={mateo}/>
                     <h2 class="mt-4 text-xl font-bold text-white">Mateo Dans</h2>
                   </div>
                 </a>
@@ -23,7 +27,7 @@ class About2 extends Component {
                   href="/s"
                 >
                 <div className='text-center'>
-                  <img className='rounded-full w-4/5' src="/joacco.jpeg"/>
+                  <img className='rounded-full w-4/5' src={joaco}/>
                   <h2 class="mt-4 text-xl font-bold text-white">Joaquin Franco</h2>
                 </div>
                 </a>
@@ -35,7 +39,7 @@ class About2 extends Component {
                 href="/"
               >
               <div className='text-center'>
-                <img className='rounded-full w-4/5' src="/kevin2.jpeg"/>
+                <img className='rounded-full w-4/5' src={kevin}/>
                 <h2 class="mt-4 text-xl font-bold text-white">Kevin Reyes</h2>
               </div>
               </a>
@@ -47,7 +51,7 @@ class About2 extends Component {
                   href="/"
                 >
                 <div className='text-center'>
-                  <img className='rounded-full w-4/5' src="/rodri.jpeg"/>
+                  <img className='rounded-full w-4/5' src={rodri}/>
                   <h2 class="mt-4 text-xl font-bold text-white">Rodrigo Zanabria</h2>
                 </div>
                 </a>

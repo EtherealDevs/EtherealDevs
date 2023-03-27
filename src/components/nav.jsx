@@ -1,6 +1,7 @@
 import { Fragment } from 'react'
 import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
+import logo from '../img/eth.png'
 
 const navigation = [
   { name: 'Inicio', href: '#home', current: false },
@@ -22,7 +23,7 @@ export default function Example() {
             <div className=" h-14 items-center">
               <div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
                 <div className="flex flex-shrink-0 font-sans text-white mr-10">
-                  <img src="/eth.png" class="absolute h-20" alt="Ethereal"/>
+                  <img src={logo} class="absolute h-20" alt="Ethereal"/>
                 </div>
                 <div className="ml-10 mt-3 text-center justify-center hidden sm:ml-6 sm:block">
                   <div className="ml-10 flex space-x-4">
@@ -39,7 +40,7 @@ export default function Example() {
                         {item.name}
                       </a>
                     ))}
-                    <div className='relative mt-2 justify-end'>
+                    {/* <div className='relative mt-2 justify-end'>
                       <label for="AcceptConditions" class="relative justify-end h-8 w-14 cursor-pointer">
                         <input
                           type="checkbox"
@@ -83,7 +84,7 @@ export default function Example() {
                           class="absolute inset-0 rounded-full bg-gray-300 transition peer-checked:bg-green-500"
                         ></span>
                       </label>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
               </div>

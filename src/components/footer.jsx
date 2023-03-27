@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import logo from '../img/1.png'
 
 const footer= () => {
   
@@ -8,7 +9,7 @@ return (
         <footer aria-label="Site Footer" class=" lg:grid lg:grid-cols-5">
   <div class="relative block h-32 lg:col-span-2 lg:h-full">
     <img
-      src="/1.png"
+      src={logo}
       alt=""
       class="absolute rounded-3xl inset-0 object-cover w-full h-full"
     />
