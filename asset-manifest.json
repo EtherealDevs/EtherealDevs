@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ethereal/static/css/main.5b8e27ec.css",
+    "main.js": "/ethereal/static/js/main.1e0c8fa4.js",
+    "static/js/787.6cd2588e.chunk.js": "/ethereal/static/js/787.6cd2588e.chunk.js",
+    "static/media/planet.png": "/ethereal/static/media/planet.04a68888bb6780368160.png",
+    "index.html": "/ethereal/index.html",
+    "main.5b8e27ec.css.map": "/ethereal/static/css/main.5b8e27ec.css.map",
+    "main.1e0c8fa4.js.map": "/ethereal/static/js/main.1e0c8fa4.js.map",
+    "787.6cd2588e.chunk.js.map": "/ethereal/static/js/787.6cd2588e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b8e27ec.css",
+    "static/js/main.1e0c8fa4.js"
+  ]
+}
