@@ -182,7 +182,7 @@ return (
               </li>
 
               <li>
-                <a href="#" class="text-white transition hover:opacity-75">
+                <a href="https://cafecito.app/etherealdevs" class="text-white transition hover:opacity-75">
                   Donaciones
                 </a>
               </li>
