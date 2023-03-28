@@ -31,17 +31,6 @@
   z-index: 20;
 }
 
-@keyframes tierra-girando {
-
-  from {
-    background-position: left center;
-  }
-
-  to {
-    background-position: -874px center;
-  }
-}
-
 /* typing */
 .typin {
   display: block;
@@ -69,8 +58,7 @@ code {
     monospace;
 }
 
-<<<<<<< HEAD
-/* Gradient Background */
+
 .background {
   position: fixed;
   top: 0;
@@ -79,9 +67,6 @@ code {
   right: 0;
   z-index: -1;
 }
-=======
-
->>>>>>> 5382413 (caca)
 
 @keyframes back-ground {
   from {
