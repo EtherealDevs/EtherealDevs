@@ -11,7 +11,7 @@ import About2 from './components/about2';
 function App() {
   return (
     <div className='flex flex-col h-screen w-full'>
-        <Background numStars={1500}/>
+        <Background numStars={1800}/>
         <div className='flex-grow bg-transparent z-10'>
           <Nav/>
           <Home/>

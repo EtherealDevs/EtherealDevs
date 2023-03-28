@@ -22,11 +22,6 @@ return (
             Contactanos 
         </p>
 
-        <ul class="mt-8 space-y-1 text-sm text-white">
-          <li>Monday to Friday: 10am - 5pm</li>
-          <li>Weekend: 10am - 3pm</li>
-        </ul>
-
         <ul class="flex gap-6 mt-8">
           <li>
             <a

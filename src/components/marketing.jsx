@@ -89,7 +89,7 @@ class Marketing extends Component {
     </div>
 
     <div className="pt-10 animate-bounce-slow ">
-            <a href="#footer" className='mt-20 text-white bg-gradient-to-r from-[#B5B9FF] to-[#2B2C49] hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-20'>
+            <a href="#footer" className='ml-10 mt-20 text-white bg-gradient-to-r from-[#B5B9FF] to-[#2B2C49] hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-20'>
               mas informacion
             </a>
           </div>

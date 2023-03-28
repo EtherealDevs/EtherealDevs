@@ -10,12 +10,12 @@ const about = () => {
         <span className='relative text-center font-bold font-align-center text-5xl'>
             Nosotros
         </span>
-        <div className='mt-10 mx-32'>
-            <span className='text-slate-200 mt-10 text-center content-center font-align-center text-sm px-8'>
+        <div className='mt-5 mx-32'>
+            <span className='text-slate-200 mt-10 text-center justify-items-center text-sm px-8'>
                 Somos el mejor aliado para mejorar tu marca y crearte una herramienta que te ayude a potenciarla
             </span>
         </div>
-        <div className='font-light grid grid-cols-4 grap-4 mt-24 px-6'>
+        <div className='font-bold text-xs grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4 grap-4 mt-10 px-6'>
             <div className='grid grid-rows-2'>
                 <div className='text-center'>
                     <MdOutlineSettingsSuggest className='opacity-50 text-5xl text-primary ml-36'/>

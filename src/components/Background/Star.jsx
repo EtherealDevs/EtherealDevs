@@ -15,12 +15,12 @@ const Star = ({ size, speed }) => {
   }, [speed]);
 
   return (
-    <div
+    <div className=''
       style={{
         position: 'absolute',
         left: `${position.x}%`,
         top: `${position.y}%`,
-        fontSize: size,
+        fontSize: 22% size,
         color: 'white',
       }}
     >
