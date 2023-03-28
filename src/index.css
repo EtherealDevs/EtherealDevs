@@ -37,9 +37,9 @@
   font-family: monospace;
   white-space: nowrap;
   border-right: 4px solid;
-  width: 12ch;
+  width: 12.5ch;
   
-  animation: typing 2s steps(30), blink .5s infinite step-end alternate;
+  animation: typing 2s steps(31), blink .5s infinite step-end alternate;
   overflow:hidden;
   
 }

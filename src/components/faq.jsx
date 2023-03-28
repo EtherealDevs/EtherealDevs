@@ -28,7 +28,7 @@ class Faq extends Component {
                       />
                     </Disclosure.Button>
                     <Disclosure.Panel className="px-4 pt-4 pb-2 text-sm text-gray-300">
-                    Si, los sitios web se mantienen, dependiendo del uso que le des y de la cantidad de actualizaciones que van surgiendo desooues de su finalizacion.
+                    Si, los sitios web se mantienen, dependiendo del uso que le des y de la cantidad de actualizaciones que van surgiendo despues de su finalizacion.
                     </Disclosure.Panel>
                   </>
                 )}

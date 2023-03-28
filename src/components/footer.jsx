@@ -25,7 +25,7 @@ return (
         <ul class="flex gap-6 mt-8">
           <li>
             <a
-              href="/"
+              href="https://www.facebook.com/EtherealDevs"
               rel="noreferrer"
               target="_blank"
               class="text-white transition hover:opacity-75"
@@ -73,7 +73,7 @@ return (
 
           <li>
             <a
-              href="/"
+              href="https://twitter.com/EthrealDevs"
               rel="noreferrer"
               target="_blank"
               class="text-white transition hover:opacity-75"
@@ -170,7 +170,7 @@ return (
           <nav aria-label="Footer Navigation - Company" class="mt-6">
             <ul class="space-y-4 text-sm">
               <li>
-                <a href="" class="text-white transition hover:opacity-75">
+                <a href="#about" class="text-white transition hover:opacity-75">
                   Nosotros
                 </a>
               </li>
@@ -194,30 +194,8 @@ return (
 
     <div class="pt-12 mt-12 border-t border-gray-100">
       <div class="sm:flex sm:items-center sm:justify-between">
-        <nav aria-label="Footer Navigation - Support">
-          <ul class="flex flex-wrap gap-4 text-xs">
-            <li>
-              <a href="#" class="text-gray-500 transition hover:opacity-75">
-                Terms & Conditions
-              </a>
-            </li>
-
-            <li>
-              <a href="#" class="text-gray-500 transition hover:opacity-75">
-                Privacy Policy
-              </a>
-            </li>
-
-            <li>
-              <a href="#" class="text-gray-500 transition hover:opacity-75">
-                Cookies
-              </a>
-            </li>
-          </ul>
-        </nav>
-
         <p class="mt-8 text-xs text-gray-500 sm:mt-0">
-          &copy; 2022. Ethereal Devs. All rights reserved.
+          &copy; 2023. Ethereal Devs. All rights reserved.
         </p>
       </div>
     </div>
