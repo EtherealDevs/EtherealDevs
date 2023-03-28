@@ -19,12 +19,8 @@ function App() {
           <About2/>
           <Marketing/>
           <Faq/>
-          
         </div>
         <Footer/>
-
-  
-
     </div>
     
   );
