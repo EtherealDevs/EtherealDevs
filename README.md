@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Ethereal 👨🏻‍🚀🌌</h1>
 
-<p align="center">🖖🏼Hi! How are You. We are a passionate team of developers dedicated to pushing the boundaries of innovation and technology. 💫 Our mission is to shape the future with creative, visionary solutions that transform how we interact with the cosmos.</p>
+<p align="center">🖖🏼Hi! How are You. We are a passionate team of developers dedicated to pushing the boundaries of innovation and technology. 💫 Our mission is to shape the future with creative, visionary solutions that transform how we create digital products of the cosmos.</p>
 
 ## About Us 🚀
 
@@ -12,6 +12,12 @@ At Ethereal Devs, we combine our expertise in web development with a fascination
 - Landing Pages
 - Ecommerce
 - Custom Website
+- Saas
+- CMS (Content Management Systems)
+- Dashboard & Analytics
+- Membership/Subscription Website
+- Custom API Development
+- Interactive Maps & Geolocation Services
 
 ## Our Commitment 🌟
 
